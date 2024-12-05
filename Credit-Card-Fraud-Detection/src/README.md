@@ -1,5 +1,3 @@
-## `src/` Folder Overview
-
 The `src/` folder contains the Jupyter Notebook file that walks through the entire project, including data analysis, feature selection, model building, evaluation, and result interpretation. It is the main script for understanding the implementation and workflow of the project.
 
 ### Contents
