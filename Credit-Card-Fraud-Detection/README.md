@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection Project
 
-Welcome to the **Credit Card Fraud Detection** project!
+Welcome to my **Credit Card Fraud Detection** project!
 
 This project focuses on building a machine learning model using the **Random Forest Classifier** to detect fraudulent credit card transactions. The objective is to classify transactions as either **Fraud** or **Not Fraud** based on various features such as transaction amounts, times, and anonymized features.
 
