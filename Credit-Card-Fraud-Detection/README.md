@@ -35,8 +35,9 @@ The dataset for this project is located in the `data/` folder. It contains anony
 This project requires the following Python libraries:
 - pandas
 - numpy
-- seaborn
 - matplotlib
+- seaborn
+- plotly
 - scikit-learn
 
 You can install all dependencies by running:
