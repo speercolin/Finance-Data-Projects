@@ -30,10 +30,3 @@ The notebook covers the following key stages of the project:
 - **Feature Importance**: Visualize which features contributed the most to the model's predictions.
 
 By running the Jupyter Notebook, you will gain insights into each step of the machine learning pipeline used to solve the fraud detection problem.
-
-### Requirements
-
-Make sure to have all the dependencies installed by using:
-
-```bash
-pip install -r requirements.txt
